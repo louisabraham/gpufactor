@@ -27,6 +27,7 @@ Factorization algorithms running on GPU
 
 - Exploiting the Power of GPUs for Asymmetric Cryptography. International Workshop on Cryptographic Hardware and Embedded Systems. 2008. [[pdf](https://link.springer.com/content/pdf/10.1007/978-3-540-85053-3_6.pdf)]
 - ECM on Graphics Cards. Annual International Conference on the Theory and Applications of Cryptographic Techniques. 2009. [[pdf](https://eecm.cr.yp.to/gpuecm-20090127.pdf)]
+- The Billion-Mulmod-Per-Second PC. SHARCS. 2009. [[pdf](http://eecm.cr.yp.to/pc109-20090901.pdf)]
 - Elliptic Curve point multiplication on GPUs. IEEE Conference. 2010. [[pdf](https://hal.sorbonne-universite.fr/hal-01099281/document)]
 - Fast GPGPU-Based Elliptic Curve Scalar Multiplication. IACR Cryptology ePrint Archive. 2014. [[pdf](https://eprint.iacr.org/2014/198.pdf)]
 
